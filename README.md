@@ -1,2 +1,7 @@
 # Descomposicion-Factorial-y-MCD-Powershell
-Introduces 2 números por pantalla, calcula su Máximo común divisor y descompone en factores cada número
+He visto que este ejercicio no lo ha hecho nadie en PowerShell y creo que es importante entenderlo.
+
+El script hace lo siguiente
+  - Introduces 2 números por pantalla y comprueba si son números y mayores de 0 (no te deja continuar si no lo son)
+  - Calcula su Máximo Común Divisor (MCD) 
+  - Descompone en factores los 2 números introducidos
