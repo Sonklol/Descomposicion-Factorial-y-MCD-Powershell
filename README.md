@@ -12,7 +12,7 @@ El script hace lo siguiente
 </div>
 
 ## HOW TO USE 📚
-First you need Visual Studio Code, Windows PowerShell or Windows PowerShell ISE
+Primero necesitas tener instalado Visual Studio Code, Windows PowerShell or Windows PowerShell ISE
 <br>
 
 ```
