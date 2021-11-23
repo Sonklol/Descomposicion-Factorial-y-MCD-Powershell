@@ -11,11 +11,11 @@ El script hace lo siguiente
 <img src="https://user-images.githubusercontent.com/64712212/143093511-21f8ba73-1958-4d0e-a3f9-a49baba87409.png"/>
 </div>
 
-## HOW TO USE 📚
+## ¿CÓMO USAR? 📚
 Primero necesitas tener instalado Visual Studio Code, Windows PowerShell or Windows PowerShell ISE
 <br>
 
 ```
-# RUN IT! 🚀 
+# ¡PARA EJECUTAR! 🚀 
 $ .\factoriales.ps1
 ```
