@@ -1,4 +1,4 @@
-# Descomposicion-Factorial-y-MCD-Powershell
+# Descomposición Factorial y MCD Powershell
 He visto que este ejercicio no lo ha hecho nadie en PowerShell y creo que es importante entenderlo.
 
 El script hace lo siguiente
