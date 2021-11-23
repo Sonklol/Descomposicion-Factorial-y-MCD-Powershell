@@ -16,6 +16,6 @@ Primero necesitas tener instalado Visual Studio Code, Windows PowerShell or Wind
 <br>
 
 ```
-# ¡PARA EJECUTAR! 🚀 
+# ¡PARA EJECUTAR! 🚀  (Sobre la ruta - Ej: [cd C:\Users\Manolo\Desktop])
 $ .\factoriales.ps1
 ```
