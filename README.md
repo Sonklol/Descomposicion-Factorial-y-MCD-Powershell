@@ -6,4 +6,6 @@ El script hace lo siguiente
   - Calcula su Máximo Común Divisor (MCD) 
   - Descompone en factores los 2 números introducidos
 <br>
-<img src="https://user-images.githubusercontent.com/64712212/143093511-21f8ba73-1958-4d0e-a3f9-a49baba87409.png" align="center"/>
+<center>
+  <img src="https://user-images.githubusercontent.com/64712212/143093511-21f8ba73-1958-4d0e-a3f9-a49baba87409.png"/>
+ </center>
